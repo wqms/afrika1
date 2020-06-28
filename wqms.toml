@@ -1,0 +1,15 @@
+name = "noname"
+interface = "wlp2s0"
+
+[statistic]
+interval = 30
+outlier = 0
+cv = 2
+
+[server]
+port = 8088
+
+[fb]
+url = "-"
+key = "-"
+uid = "."
